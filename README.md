@@ -1,7 +1,5 @@
 # EvolvedOrgans
-Repo for the Rimworld mod, EvolvedOrgans
+Repo for Szara's fork of the Rimworld mod, EvolvedOrgans by Xahkarias https://github.com/Xahkarias/Evolved-Organs
 
-Hi there:
-
-If you are here to add a compatibility request for a humanoid race? Head over to the issues page (and tag it with "race request")
+Fork for customizations.
 
