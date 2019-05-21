@@ -3,3 +3,6 @@ Repo for Szara's fork of the Rimworld mod, EvolvedOrgans by Xahkarias https://gi
 
 Fork for customizations.
 
+To do-
+Add nonhuman body compatibility
+
