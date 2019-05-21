@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-	<ThingDef ParentName="BenchBase">
+	<ThingDef ParentName="WorkTable">
 		<defName>EvolvedWorkbench</defName>
 		<label>organ evolver worksbench</label>
 		<description>A place to grow organs that are far more capable than what nature would have given us.</description>
@@ -20,10 +20,15 @@
 				<cornerBR>Damage/Corner</cornerBR>
 			</damageData>
 		</graphicData>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		<costStuffCount>250</costStuffCount>
 		<costList>
-			<ComponentIndustrial>12</ComponentIndustrial>
-			<ComponentSpacer>10</ComponentSpacer>
-			<Steel>500</Steel>
+			<Rubber>35</Rubber>
+			<SyntheticFibers>25</SyntheticFibers>
+			<Glass>25</Glass>
+			<Electronics>5</Electronics>
 		</costList>
 		<constructEffect>ConstructMetal</constructEffect>
 		<altitudeLayer>Building</altitudeLayer>
